@@ -1,4 +1,17 @@
-# SQL Formatter [![NPM version](https://img.shields.io/npm/v/sql-formatter.svg)](https://npmjs.com/package/sql-formatter) [![Build Status](https://travis-ci.org/zeroturnaround/sql-formatter.svg?branch=master)](https://travis-ci.org/zeroturnaround/sql-formatter) [![Coverage Status](https://coveralls.io/repos/github/zeroturnaround/sql-formatter/badge.svg?branch=master)](https://coveralls.io/github/zeroturnaround/sql-formatter?branch=master)
+# SQL Formatter 
+
+[![npm-badge]][npm-url]
+[![type-badge]][npm-url]
+[![size-badge]][size-url]
+[![ci-badge]][ci-url]
+
+[npm-badge]: https://img.shields.io/npm/v/@supabase/sql-formatter
+[npm-url]: https://www.npmjs.com/package/@supabase/sql-formatter
+[size-badge]: https://img.shields.io/bundlephobia/minzip/@supabase/sql-formatter
+[size-url]: https://bundlephobia.com/result?p=@supabase/sql-formatter
+[type-badge]: https://img.shields.io/npm/types/@supabase/sql-formatter
+[ci-badge]: https://github.com/supabase/sql-formatter/workflows/CI/badge.svg
+[ci-url]: https://github.com/supabase/sql-formatter/actions
 
 **SQL Formatter** is a JavaScript library for pretty-printing SQL queries.
 It started as a port of a [PHP Library][], but has since considerably diverged.

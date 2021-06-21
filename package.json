@@ -72,10 +72,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeroturnaround/sql-formatter.git"
+    "url": "https://github.com/supabase/sql-formatter.git"
   },
   "bugs": {
-    "url": "https://github.com/zeroturnaround/sql-formatter/issues"
+    "url": "https://github.com/supabase/sql-formatter/issues"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.4",
