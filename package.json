@@ -1,5 +1,5 @@
 {
-  "name": "sql-formatter",
+  "name": "@supabase/sql-formatter",
   "version": "4.0.2",
   "description": "Format whitespace in a SQL query to make it more readable",
   "license": "MIT",
@@ -104,9 +104,17 @@
       "test"
     ],
     "testRegex": ".*Test",
-    "collectCoverage": true
+    "collectCoverage": false
   },
   "dependencies": {
     "argparse": "^2.0.1"
+  },
+  "release": {
+    "branches": [
+      "master"
+    ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
