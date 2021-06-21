@@ -1,4 +1,4 @@
-# SQL Formatter 
+# SQL Formatter
 
 [![npm-badge]][npm-url]
 [![type-badge]][npm-url]
