@@ -22,8 +22,8 @@ jobs:
       - name: Install deps and build (with cache)
         uses: bahmutov/npm-install@v1
 
-      - name: Check
+      - name: Run check
         run: npm run check
 
-      - name: Build
+      - name: Run build
         run: npm run build
